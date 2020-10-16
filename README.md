@@ -7,3 +7,5 @@
 - `adb install app.apk`
 
 
+#### Batch installation - Multiple devices connected:
+- `
